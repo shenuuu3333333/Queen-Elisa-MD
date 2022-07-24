@@ -32,18 +32,38 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
-global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
+global.owner = ['+94757805860'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['+94757805860'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['+94757805860'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'THARUSHI🥰' // Your name ඔබේ නම 
+global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐓𝐇𝐀𝐑𝐔𝐒𝐇𝐈 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.ownernma = '𝒯𝐻𝒜𝑅𝒰𝒮𝐻𝐼' //ownernama,ownername
+global.packname = '𝐓𝐡𝐚𝐫𝐮𝐬𝐡𝐢 Elisa Sticker' // Sticker package name 
+global.author = '𝐓𝐡𝐚𝐫𝐮𝐬𝐡𝐢' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
-// Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
+// Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` 🔥 *NO GROUP LINK*
+
+🔥 *NO BAD CONTAIN*
+
+🔥 *Dont Go Girls Inbox Without Permission*
+
+❄ *භාවිත කරන ආකාරය පහත දක්වා ඇත*
+
+1️⃣ සිංදු හෝ වීඩියෝ  ඩවුන්ලෝඩ් කිරීමට....
+*.song {ගීතයේ නම}*
+
+2️⃣Sticker සෑදීමට...
+*.attp හෝ .ttp {සෑදීමට අවශ්‍ය නම ඉංග්‍රීසියෙන් හෝ සිංහලෙන්}*
+
+*මේ හැම කමාන්ඩ් එකටම කලින් . එක (ඩොට් එක) අනිවාර්යයෙන්ම යෙදිය යුතුය*
+
+© ```𝐃𝐀𝐑𝐊 𝐕𝐈𝐏𝐄𝐑 🇱🇰™```
+
+*Invite link* 👇👇👇
+
+https://chat.whatsapp.com/GbxZNOveJVqAcZ3ITNxaT9` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
 global.alivelogo = `https://telegra.ph/file/1a2dee71baa975091620d.jpg`
 global.alive =`Hello i am alive now
 
@@ -51,7 +71,7 @@ Download song type .yt
 Thanks fro using...`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
 global.welcome = `
-🌀 Thanks Fro using sl zim bot
+🌀 Thanks Fro using  𝐓𝐇𝐀𝐑𝐔 bot
 ✾ Some bugs fixing
 😼♥️
 `
@@ -60,7 +80,7 @@ global.sendwelcome = `add`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
 global.sendgoodbye = `remove`
 // Caption 
-global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃`
+global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐓𝐇𝐀𝐑𝐔𝐒𝐇𝐈 𝐌𝐃`
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
